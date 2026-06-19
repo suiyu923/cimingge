@@ -22,7 +22,7 @@
 <!-- DREAMFIELD_README_HEADER_END -->
 本项目由DeepSeek AI 辅助创作完成
 
-![Uploading ceab7ba6e71c14954451bc1f7e8bace5.jpg…]()
+<img width="1706" height="1280" alt="ceab7ba6e71c14954451bc1f7e8bace5" src="https://github.com/user-attachments/assets/b545f663-550c-4fb4-8b8a-9b85bbe579f4" />
 
 ## 使用方法
 
